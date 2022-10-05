@@ -9,3 +9,5 @@ Property for **DroppableZoneList**:
 - className?: string;
 - onDrop?(droppedElement: HTMLElement | null): void;
 - onDragOver?(dropZoneElement: HTMLElement | null): void;
+
+You can see example folder for more details.
